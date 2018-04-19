@@ -14,7 +14,7 @@ Minimal Vue + TypeScript example, using [Poi](https://github.com/egoist/poi).
 - `tsconfig.json`: TypeScript config file.
 - `poi.config.js`: Configure Poi to support TypeScript.
 - `src/index.ts`: App entry.
-- `src/vue-shims.d.ts`: Shims for `.vue` file.
+- `src/shims.d.ts`: Shims for `.vue` files or modules without type definitions.
 - `src/App.vue`: Root component.
 
 ## License
